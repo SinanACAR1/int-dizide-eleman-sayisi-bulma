@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\int dizide eleman sayisi bulma\int dizide eleman sayisi bulma\bin\Debug\int dizide eleman sayisi bulma.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\int dizide eleman sayisi bulma\int dizide eleman sayisi bulma\bin\Debug\int dizide eleman sayisi bulma.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\int dizide eleman sayisi bulma\int dizide eleman sayisi bulma\bin\Debug\int dizide eleman sayisi bulma.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\int dizide eleman sayisi bulma\int dizide eleman sayisi bulma\obj\Debug\int dizide eleman sayisi bulma.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\int dizide eleman sayisi bulma\int dizide eleman sayisi bulma\obj\Debug\int_dizide_eleman_sayisi_bulma.Form1.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\int dizide eleman sayisi bulma\int dizide eleman sayisi bulma\obj\Debug\int_dizide_eleman_sayisi_bulma.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\int dizide eleman sayisi bulma\int dizide eleman sayisi bulma\obj\Debug\int dizide eleman sayisi bulma.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\int dizide eleman sayisi bulma\int dizide eleman sayisi bulma\obj\Debug\int dizide eleman sayisi bulma.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\int dizide eleman sayisi bulma\int dizide eleman sayisi bulma\obj\Debug\int dizide eleman sayisi bulma.pdb
